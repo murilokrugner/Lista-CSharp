@@ -1,0 +1,10 @@
+C:\Faculdade\Linguagem de programação 1\trabalho semestral\LISTA\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE\obj\Debug\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE.csprojAssemblyReference.cache
+C:\Faculdade\Linguagem de programação 1\trabalho semestral\LISTA\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE\obj\Debug\LISTA___MURILO_AUGUSTO_KRUGNER_ALMEIDA_LEITE.Properties.Resources.resources
+C:\Faculdade\Linguagem de programação 1\trabalho semestral\LISTA\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE\obj\Debug\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE.csproj.GenerateResource.cache
+C:\Faculdade\Linguagem de programação 1\trabalho semestral\LISTA\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE\obj\Debug\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE.csproj.CoreCompileInputs.cache
+C:\Faculdade\Linguagem de programação 1\trabalho semestral\LISTA\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE\bin\Debug\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE.exe.config
+C:\Faculdade\Linguagem de programação 1\trabalho semestral\LISTA\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE\bin\Debug\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE.exe
+C:\Faculdade\Linguagem de programação 1\trabalho semestral\LISTA\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE\bin\Debug\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE.pdb
+C:\Faculdade\Linguagem de programação 1\trabalho semestral\LISTA\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE\obj\Debug\LISTA___MURILO_AUGUSTO_KRUGNER_ALMEIDA_LEITE.FrmPrincipal.resources
+C:\Faculdade\Linguagem de programação 1\trabalho semestral\LISTA\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE\obj\Debug\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE.exe
+C:\Faculdade\Linguagem de programação 1\trabalho semestral\LISTA\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE\obj\Debug\LISTA - MURILO AUGUSTO KRUGNER ALMEIDA LEITE.pdb
